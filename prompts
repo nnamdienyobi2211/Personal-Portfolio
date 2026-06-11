@@ -1,0 +1,38 @@
+ my friend, please assist me in building a personal portfolio site.
+1.Use HTML and TAILWIND CSS.
+2.Add a home section introducing myself.
+3.Add a menu bar that navigate to each of these sections:
+  HOME
+  ABOUT
+  EDUCATION
+  HOBBIES
+  CONTACT
+
+4.The header should be in dark blue.
+5.The site should have a single page.
+6. The menu bar and the footer should be sticky.
+7.Also include projects that i have completed in the program. Each project should have it's own card box.
+8. Each of the cards should show a high level summary of what the project set out to solve.
+9. Card 1 - Decorguru an ecommerce website that sells interior decor. This project was done in collaboration with my group 1 members.
+10. card 2 - Travel agency website.
+11. card 3-  Mens footwear ecommerce website that sells male footwear. This projct was done in collaboration with my group 1 members.
+12. IT should also show how i went about it from design to coding to delivery.
+13. Add comments to each section.
+14. Link my ATS compliant Resume to the hero section of the site.
+15.The hero section should occupy at least 30% of the vertical length of the page and 100% of the breath of the page.
+16. The hero section should be vertically partitioned into two.
+17. The right side of the hero section should display my picture.
+18. The left side of the hero section should have boldly written words of i am a web developer in black.
+Vibe engineering-
+
+19. i changed whole of the hero section to be in light grey colour.
+20. i made it mobile responsive, tablet responsive , laptop responsive and desktop responsive.
+21.I used orange color for buttons.
+22.I used dark navy  for the navbar and footer.
+23. I added hover effects on project cards.
+24.I added smooth scrolling.
+25.I added a hamburger menu for mobile screens.
+
+
+
+
